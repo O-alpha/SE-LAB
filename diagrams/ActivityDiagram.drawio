@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T05:14:52.741Z" agent="5.0 (X11; Ubuntu)" etag="9aOOptq1t3D5pTGiDJq9" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T05:23:10.226Z" agent="5.0 (X11; Ubuntu)" etag="rjadVwV0f9a68fXXHB1G" version="20.8.13" type="github">
   <diagram name="Page-1" id="i3sbOKO0wib5_IW4xjCe">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-1" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Requirement Specification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Requirement Specification&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;15&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-2" value="Design Database" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-2" value="&lt;div&gt;Design Database&lt;/div&gt;&lt;div&gt;45&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-3" value="Code Database" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-3" value="&lt;div&gt;Code Database&lt;/div&gt;&lt;div&gt;105&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="425" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-4" value="Design GUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-4" value="&lt;div&gt;Design GUI&lt;/div&gt;&lt;div&gt;30&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-5" value="Code GUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-5" value="&lt;div&gt;Code GUI&lt;/div&gt;&lt;div&gt;45&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-6" value="&lt;div&gt;Integrate and&lt;/div&gt;&lt;div&gt;Test&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-6" value="&lt;div&gt;Integrate and&lt;/div&gt;&lt;div&gt;Test&lt;/div&gt;&lt;div&gt;120&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="590" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-7" value="Document" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-7" value="&lt;div&gt;Document&lt;/div&gt;&lt;div&gt;60&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMNS04uvxr1vjZXDMRVF-8" value="Finish" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="DMNS04uvxr1vjZXDMRVF-8" value="&lt;div&gt;Finish&lt;/div&gt;&lt;div&gt;0&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="730" y="310" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DMNS04uvxr1vjZXDMRVF-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DMNS04uvxr1vjZXDMRVF-1" target="DMNS04uvxr1vjZXDMRVF-2">
